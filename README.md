@@ -19,3 +19,4 @@
 - [6. 再談資料結構](http://mirdex.github.io/PythonBasic/6.%20再談資料結構_Q.slides.html)
 - [7. 函數](http://mirdex.github.io/PythonBasic/7.%20函數_Q.slides.html)
 - [8. 類別](http://mirdex.github.io/PythonBasic/8.%20類別_Q.slides.html)
+- [9. 變數與生命週期](http://mirdex.github.io/PythonBasic/9.%20變數與生命週期.slides.html)
