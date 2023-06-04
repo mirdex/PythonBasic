@@ -21,4 +21,5 @@
 - [8. 類別](http://mirdex.github.io/PythonBasic/8.%20類別_Q.slides.html)
 - [9. 變數與生命週期](http://mirdex.github.io/PythonBasic/9.%20變數與生命週期.slides.html)
 - [10. 例外處理](http://mirdex.github.io/PythonBasic/10.%20例外處理.slides.html)
-- [11. 總複習(一)](http://mirdex.github.io/PythonBasic/0.%20Python前言(Q).slides.html)
+- [11. 總複習(一) - list Comprehension](http://mirdex.github.io/PythonBasic/0.%20Python前言(Q).slides.html)
+- [12. 總複習(二) - Recursive & Module Package](http://mirdex.github.io/PythonBasic/1.%20模組開發(Q).slides.html)
