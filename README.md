@@ -23,3 +23,4 @@
 - [10. 例外處理](http://mirdex.github.io/PythonBasic/10.%20例外處理.slides.html)
 - [11. 總複習(一) - list Comprehension](http://mirdex.github.io/PythonBasic/0.%20Python前言(Q).slides.html)
 - [12. 總複習(二) - Recursive & Module Package](http://mirdex.github.io/PythonBasic/1.%20模組開發(Q).slides.html)
+- [13. 檔案處理(一)](http://mirdex.github.io/PythonBasic/2.%20檔案處理(一)(Q).slides.html)
