@@ -25,4 +25,4 @@
 - [12. 總複習(二) - Recursive & Module Package](http://mirdex.github.io/PythonBasic/1.%20模組開發(Q).slides.html)
 - [13. 檔案處理(一)](http://mirdex.github.io/PythonBasic/2.%20檔案處理(一)(Q).slides.html)
 - [14. 檔案處理(二)](http://mirdex.github.io/PythonBasic/3.%20檔案處理(二)(Q).slides.html)
-- [15. Numpy](http://mirdex.github.io/PythonBasic/4.%20NumPy(一)(Q).slides.html)
+- [15. Numpy基礎](http://mirdex.github.io/PythonBasic/4.%20NumPy(一)(Q).slides.html)
